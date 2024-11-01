@@ -1,0 +1,13 @@
+# WRITE THE REQUIREMENTS THAT ARE NECESSARY FOR DOCKERIZATION -
+# THE APPLICATION IMAGE FOR THE DEPLOYMENT PURPOSE
+jupyter
+black
+colorama
+mkdocs
+matplotlib
+Pillow
+tensorflow
+scipy
+opencv-python
+
+-e .

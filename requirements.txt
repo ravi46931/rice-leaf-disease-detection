@@ -1,0 +1,8 @@
+black
+colorama
+mkdocs
+matplotlib
+Pillow
+tensorflow
+scipy
+opencv-python
