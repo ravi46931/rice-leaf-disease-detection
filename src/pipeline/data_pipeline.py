@@ -1,5 +1,5 @@
-from src.data.data_augment import ImageAugmentor
-from src.data.model import MakeDataset
+from src.data_process.data_augment import ImageAugmentor
+from src.data_process.model import MakeDataset
 import sys
 from src.exception import CustomException
 
